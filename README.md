@@ -1,4 +1,4 @@
-# Théo Berro - Projet Conference 2019
+# Théo Berro - Projet Conference 2019 [![Build Status](https://travis-ci.com/theoberro/PWA.svg?branch=master)](https://travis-ci.com/theoberro/PWA)
 
 ## PoC et rapport sur les PWA  
 
